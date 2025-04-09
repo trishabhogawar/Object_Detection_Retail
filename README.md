@@ -1,6 +1,6 @@
 Retail Shelf Object Detector using YOLOv8
 
-This project uses a custom-trained YOLOv8 model to detect and classify items on retail shelves from images. It provides a lightweight and interactive web app interface built with Gradio to upload images, visualize detections, and display category-wise object counts.
+This project uses a custom-trained YOLOv8 model to detect and count items on retail shelves from images. It provides a lightweight and interactive web app interface built with Gradio to upload images, visualize detections, and display category-wise object counts.
 
 🚀 Features:
 - YOLOv8-based detection of grocery items.
